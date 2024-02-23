@@ -17,7 +17,12 @@ module.exports = {
       '@typescript-eslint/no-non-null-assertion': 'off',
       '@typescript-eslint/no-empty-function': 'off',
       'react-hooks/exhaustive-deps': 'off',
-      '@typescript-eslint/ban-types': 'off'
+      '@typescript-eslint/ban-types': 'off',
+      // 关闭any警告
+      '@typescript-eslint/no-explicit-any': 'off',
+      // 关闭ts-ignore警告
+      '@typescript-eslint/ban-ts-comment': 'off',
+
     }
   }
   
