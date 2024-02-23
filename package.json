@@ -1,7 +1,7 @@
 {
   "name": "@yc-tech/eslint-config",
   "private": false,
-  "version": "0.1.0",
+  "version": "0.1.1",
   "main": "index.js",
   "files": [
     "index.js"
